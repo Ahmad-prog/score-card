@@ -565,7 +565,7 @@ def main():
     if st.session_state.selected_kpi is not None:
         selected_row = df.iloc[st.session_state.selected_kpi]
         st.markdown("---")
-        st.markdown(f'<h2 class="section-header">📋 Detailed Analysis: {selected_row["KPI"]}</h2>',
+        st.markdown(f'<h2 class="section-header"; style="color: ##FFFFFF">📋 Detailed Analysis: {selected_row["KPI"]}</h2>',
                     unsafe_allow_html=True)
 
         col1, col2 = st.columns([1, 1])
