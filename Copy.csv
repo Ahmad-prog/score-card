@@ -1,0 +1,13 @@
+KPI,Formula,Measuring unit,Weightage,Target,Actual,Achieved KPI,Remakrs
+SOPs Training,No of training delivered/no of training planned,Num,10%,10,10,10%,"less than 10 will be red, above and equal to 10 will be green."
+Inventory Turnover,COGS Value/Average Closing Inventory,Num,35%,0.5,0.11,8%,"Less than 35% will be red , above and equal to 35% "
+Planning Forecast Accuracy (Event Based),Actual Production/Planned Production,%,30%,95%,31%,9.80%,"Less than 30% will be red , above and equal to 30% "
+Monthly Purchase Local OTIF(B),Actual Purchase Local (No.)/Planned Purchase Local (No.)*100,%,4%,95%,91%,3.80%,"Less than 4% will be red , above and equal to 4% will be green"
+Monthly Purchase Import OTIF(B),Actual Import (No of Shipments)/Planned Import (No of Shipments)*100,%,4%,100%,10%,0.40%,"Less than 4% will be red , above and equal to 4% will be green"
+Logistics Cost,Actual/Budgeted,PKR,4%,1065000,891571,4.80%,"Less than 4% will be red , above and equal to 4% will be green"
+Cost Saving,Budgeted- Actual,%,3%,5%,14%,3.00%,"Less than 3% will be red , above and equal to 3% will be green"
+5S Implementation,Cimpliance of 5S,%,3%,100%,88%,2.60%,"less than 3% will be green , above and equal to 3% will be red. "
+Kaizen,Actual/Total,Num,3%,1,1,3.00%,"less than 3% will be green , above and equal to 3% will be red. "
+ATS Compliance ,Total done task/Total Task,%,2%,100%,99%,2.00%,"less than 2% will be green , above and equal to 2% will be red. "
+Sops Compliance,Non compliance of SOPs/total no of SOPs audited*100,%,2%,100%,87%,1.70%,"less than 2% will be green , above and equal to 2% will be red. "
+Total,,,100%,-,-,49%,
